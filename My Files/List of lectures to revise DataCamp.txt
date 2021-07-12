@@ -1,3 +1,5 @@
+Data Analytics
+
 EDA - Olin College
 Introduction to Data Science in Python
 Intermediate Python (this is very useful)
